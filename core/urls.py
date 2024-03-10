@@ -7,6 +7,6 @@ urlpatterns = [
     path('admin/',admin.site.urls),
     path('blogadmin/', blog_site.urls),
 ]
-admin.site.index_title="The Bookstore"
-admin.site.site_header="The Bookstore Admin"
-admin.site.site_title="Site Title Bookstore"
+#admin.site.index_title="The Bookstore"
+#admin.site.site_header="The Bookstore Admin"
+#admin.site.site_title="Site Title Bookstore"
