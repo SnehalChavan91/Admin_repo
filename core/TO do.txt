@@ -1,0 +1,4 @@
+Admin site attributes:(overriding basic admin templates)
+    site_header
+    site_title
+    index_title
