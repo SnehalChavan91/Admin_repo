@@ -2,3 +2,8 @@ Admin site attributes:(overriding basic admin templates)
     site_header
     site_title
     index_title
+
+Setup a custom admin sites
+    setup a custom admin area
+    Overriding the default admin site
+    Setup multiple admin areas
